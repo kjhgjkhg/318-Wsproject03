@@ -1,0 +1,26 @@
+2024-01-16 08:00:00 INFO [system] System startup initiated
+2024-01-16 08:00:01 INFO [system] Loading modules...
+2024-01-16 08:00:02 INFO [system] Module 'auth' loaded
+2024-01-16 08:00:03 INFO [system] Module 'api' loaded
+2024-01-16 08:00:04 INFO [system] Module 'database' loaded
+2024-01-16 08:00:05 INFO [system] All modules loaded successfully
+
+2024-01-16 09:15:30 INFO [auth] User login: admin@example.com
+2024-01-16 09:15:31 WARN [auth] Failed login attempt: unknown@test.com
+2024-01-16 09:15:32 ERROR [auth] Account locked error_code=3001
+2024-01-16 09:15:33 INFO [auth] Password reset email sent
+
+2024-01-16 11:00:00 INFO [batch] Starting batch processing
+2024-01-16 11:00:01 DEBUG [batch] Batch size: 1000
+2024-01-16 11:00:02 DEBUG [batch] Memory allocated: 256MB
+2024-01-16 11:00:03 INFO [batch] Processing batch 1/10
+2024-01-16 11:00:04 INFO [batch] Processing batch 2/10
+2024-01-16 11:00:05 ERROR [batch] Batch failed error_code=4002
+2024-01-16 11:00:06 WARN [batch] Retrying batch 2/10
+2024-01-16 11:00:07 INFO [batch] Batch 2/10 completed
+2024-01-16 11:00:08 INFO [batch] All batches completed
+
+2024-01-16 15:30:00 INFO [api] GET /api/reports - 200 OK - 560ms
+2024-01-16 15:30:01 INFO [api] POST /api/export - 202 Accepted - 15ms
+2024-01-16 15:30:02 WARN [api] Rate limit approaching for client 192.168.1.100
+2024-01-16 15:30:03 ERROR [api] Request timeout error_code=5001

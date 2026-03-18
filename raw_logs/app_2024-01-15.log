@@ -1,0 +1,25 @@
+2024-01-15 08:15:23 INFO [main] Application started successfully
+2024-01-15 08:15:24 INFO [main] Loading configuration from config.yaml
+2024-01-15 08:15:25 WARN [main] Configuration file missing optional section 'cache'
+2024-01-15 08:15:26 INFO [database] Connecting to database server
+2024-01-15 08:15:27 ERROR [database] Connection failed error_code=1001
+2024-01-15 08:15:28 INFO [database] Retrying connection (attempt 1/3)
+2024-01-15 08:15:29 INFO [database] Database connection established
+2024-01-15 08:16:00 INFO [api] Starting HTTP server on port 8080
+2024-01-15 08:16:01 INFO [api] Server ready to accept connections
+
+2024-01-15 09:00:15 DEBUG [worker] Processing job queue
+2024-01-15 09:00:16 DEBUG [worker] Job queue size: 5
+2024-01-15 09:00:17 INFO [worker] Processing job: send_email
+2024-01-15 09:00:18 WARN [worker] Email service slow response time: 2500ms
+2024-01-15 09:00:19 INFO [worker] Job completed successfully
+
+2024-01-15 10:30:45 INFO [api] GET /api/users - 200 OK - 45ms
+2024-01-15 10:30:46 INFO [api] POST /api/orders - 201 Created - 120ms
+2024-01-15 10:30:47 ERROR [api] Database query timeout error_code=2005
+2024-01-15 10:30:48 WARN [api] High memory usage detected: 85%
+2024-01-15 10:30:49 INFO [api] GET /api/products - 200 OK - 32ms
+
+2024-01-15 14:00:00 INFO [scheduler] Running daily cleanup task
+2024-01-15 14:00:01 INFO [scheduler] Cleaned 150 old log files
+2024-01-15 14:00:02 INFO [scheduler] Cleanup completed

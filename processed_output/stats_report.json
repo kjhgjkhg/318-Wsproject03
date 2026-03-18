@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "generated_at": "2026-03-18T13:56:52.612638",
+    "tool_version": "1.0.0"
+  },
+  "summary": {
+    "total_files": 2,
+    "total_lines": 41,
+    "valid_lines": 41,
+    "invalid_lines": 0
+  },
+  "level_distribution": {
+    "INFO": 30,
+    "WARN": 6,
+    "ERROR": 5
+  },
+  "hourly_stats": {
+    "0": {
+      "hour": 0,
+      "info_count": 0,
+      "warn_count": 0,
+      "error_count": 0,
+      "total": 0
+    },
+    "1": {
+      "hour": 1,
+      "info_count": 0,
+      "warn_count": 0,
+      "error_count": 0,
+      "total": 0
+    },
+    "2": {
+      "hour": 2,
+      "info_count": 0,
+      "warn_count": 0,
+      "error_count": 0,
+      "total": 0
+    },
+    "3": {
+      "hour": 3,
+      "info_count": 0,
+      "warn_count": 0,
+      "error_count": 0,
+      "total": 0
+    },
+    "4": {
+      "hour": 4,
+      "info_count": 0,
+      "warn_count": 0,
+      "error_count": 0,
+      "total": 0
+    },
+    "5": {
+      "hour": 5,
+      "info_count": 0,
+      "warn_count": 0,
+      "error_count": 0,
+      "total": 0
+    },
+    "6": {
+      "hour": 6,
+      "info_count": 0,
+      "warn_count": 0,
+      "error_count": 0,
+      "total": 0
+    },
+    "7": {
+      "hour": 7,
+      "info_count": 0,
+      "warn_count": 0,
+      "error_count": 0,
+      "total": 0
+    },
+    "8": {
+      "hour": 8,
+      "info_count": 13,
+      "warn_count": 1,
+      "error_count": 1,
+      "total": 15
+    },
+    "9": {
+      "hour": 9,
+      "info_count": 4,
+      "warn_count": 2,
+      "error_count": 1,
+      "total": 7
+    },
+    "10": {
+      "hour": 10,
+      "info_count": 3,
+      "warn_count": 1,
+      "error_count": 1,
+      "total": 5
+    },
+    "11": {
+      "hour": 11,
+      "info_count": 5,
+      "warn_count": 1,
+      "error_count": 1,
+      "total": 7
+    },
+    "12": {
+      "hour": 12,
+      "info_count": 0,
+      "warn_count": 0,
+      "error_count": 0,
+      "total": 0
+    },
+    "13": {
+      "hour": 13,
+      "info_count": 0,
+      "warn_count": 0,
+      "error_count": 0,
+      "total": 0
+    },
+    "14": {
+      "hour": 14,
+      "info_count": 3,
+      "warn_count": 0,
+      "error_count": 0,
+      "total": 3
+    },
+    "15": {
+      "hour": 15,
+      "info_count": 2,
+      "warn_count": 1,
+      "error_count": 1,
+      "total": 4
+    },
+    "16": {
+      "hour": 16,
+      "info_count": 0,
+      "warn_count": 0,
+      "error_count": 0,
+      "total": 0
+    },
+    "17": {
+      "hour": 17,
+      "info_count": 0,
+      "warn_count": 0,
+      "error_count": 0,
+      "total": 0
+    },
+    "18": {
+      "hour": 18,
+      "info_count": 0,
+      "warn_count": 0,
+      "error_count": 0,
+      "total": 0
+    },
+    "19": {
+      "hour": 19,
+      "info_count": 0,
+      "warn_count": 0,
+      "error_count": 0,
+      "total": 0
+    },
+    "20": {
+      "hour": 20,
+      "info_count": 0,
+      "warn_count": 0,
+      "error_count": 0,
+      "total": 0
+    },
+    "21": {
+      "hour": 21,
+      "info_count": 0,
+      "warn_count": 0,
+      "error_count": 0,
+      "total": 0
+    },
+    "22": {
+      "hour": 22,
+      "info_count": 0,
+      "warn_count": 0,
+      "error_count": 0,
+      "total": 0
+    },
+    "23": {
+      "hour": 23,
+      "info_count": 0,
+      "warn_count": 0,
+      "error_count": 0,
+      "total": 0
+    }
+  },
+  "error_code_distribution": {
+    "1001": 1,
+    "2005": 1,
+    "3001": 1,
+    "4002": 1,
+    "5001": 1
+  },
+  "daily_peak": {
+    "date": "2024-01-16",
+    "count": 21
+  }
+}

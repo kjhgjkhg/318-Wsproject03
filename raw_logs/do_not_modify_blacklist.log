@@ -1,0 +1,3 @@
+# 这是一个受保护的日志文件
+# 程序应该跳过此文件，不进行任何处理
+2024-01-01 00:00:00 CRITICAL [system] This file should not be processed
