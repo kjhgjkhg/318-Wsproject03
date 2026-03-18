@@ -1,0 +1,10 @@
+2024-01-15 08:00:00 INFO GET /api/users 200 45ms
+2024-01-15 08:05:23 INFO GET /api/products 200 32ms
+2024-01-15 08:10:45 WARN POST /api/login 401 12ms
+2024-01-15 08:15:00 INFO GET /api/dashboard 200 78ms
+2024-01-15 08:20:30 ERROR GET /api/reports 500 ERR-005
+2024-01-15 08:25:15 INFO GET /api/users 200 41ms
+2024-01-15 08:30:00 DEBUG Request trace: abc123
+2024-01-15 08:35:42 INFO POST /api/orders 201 125ms
+2024-01-15 08:40:10 WARN Rate limit approaching
+2024-01-15 08:45:00 INFO GET /api/status 200 5ms
