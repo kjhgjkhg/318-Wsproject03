@@ -6,7 +6,7 @@ log_reporter.py - 日志报告生成模块
 
 import os
 import json
-from typing import Dict, Optional
+from typing import Dict, Optional, Tuple
 from datetime import datetime
 
 from log_analyzer import AnalysisResult, HourlyStats, DailyPeak
@@ -297,6 +297,3 @@ class LogReporter:
         json_success = self.save_json_report(result)
         text_success = self.save_text_summary(result)
         return json_success, text_success
-
-
-from typing import Tuple
