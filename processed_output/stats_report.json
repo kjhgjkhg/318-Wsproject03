@@ -1,0 +1,87 @@
+{
+  "report_metadata": {
+    "generated_at": "2026-03-18T13:53:19.947482",
+    "version": "1.0.0"
+  },
+  "data": {
+    "summary": {
+      "total_entries": 30,
+      "level_distribution": {
+        "INFO": 15,
+        "WARN": 7,
+        "ERROR": 8
+      },
+      "unique_error_codes": 6
+    },
+    "hourly_stats": {
+      "2024-01-15 08:00": {
+        "INFO": 7,
+        "WARN": 3,
+        "ERROR": 1
+      },
+      "2024-01-15 09:00": {
+        "ERROR": 2,
+        "INFO": 1
+      },
+      "2024-01-15 10:00": {
+        "INFO": 1,
+        "WARN": 1,
+        "ERROR": 1
+      },
+      "2024-01-15 11:00": {
+        "INFO": 1
+      },
+      "2024-01-15 13:00": {
+        "WARN": 1
+      },
+      "2024-01-15 14:00": {
+        "ERROR": 1
+      },
+      "2024-01-15 15:00": {
+        "INFO": 1
+      },
+      "2024-01-15 16:00": {
+        "ERROR": 2,
+        "WARN": 1,
+        "INFO": 2
+      },
+      "2024-01-15 17:00": {
+        "INFO": 1
+      },
+      "2024-01-15 18:00": {
+        "ERROR": 1,
+        "WARN": 1
+      },
+      "2024-01-15 19:00": {
+        "INFO": 1
+      }
+    },
+    "daily_stats": {
+      "2024-01-15": {
+        "INFO": 15,
+        "WARN": 7,
+        "ERROR": 8
+      }
+    },
+    "error_code_distribution": {
+      "ERR-005": 1,
+      "ERR-001": 2,
+      "ERR-002": 2,
+      "ERR-003": 1,
+      "ERR-999": 1,
+      "ERR-004": 1
+    },
+    "peak_stats": {
+      "peak_hour": "2024-01-15 08:00",
+      "peak_hour_count": 11,
+      "peak_day": "2024-01-15",
+      "peak_day_count": 30
+    },
+    "processing_info": {
+      "processed_files": 3,
+      "total_lines": 35,
+      "valid_entries": 30,
+      "filtered_count": 5
+    }
+  }
+}

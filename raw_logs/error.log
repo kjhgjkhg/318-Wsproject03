@@ -1,0 +1,10 @@
+2024-01-15 16:00:00 ERROR Critical system failure ERR-999
+2024-01-15 16:01:10 WARN Service degradation detected
+2024-01-15 16:05:22 INFO Failover initiated
+2024-01-15 16:10:35 ERROR Connection refused ERR-002
+2024-01-15 16:15:48 INFO Service recovered
+2024-01-15 17:00:00 DEBUG Health check passed
+2024-01-15 17:30:25 INFO Maintenance mode enabled
+2024-01-15 18:00:00 ERROR Out of memory ERR-004
+2024-01-15 18:05:12 WARN Memory cleanup performed
+2024-01-15 19:00:00 INFO Maintenance completed
